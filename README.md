@@ -14,4 +14,4 @@
 -->
 
 
-<p  align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newvall&theme=dark&show_icons=true) </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newvall&theme=dark&show_icons=true)
