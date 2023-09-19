@@ -1,12 +1,12 @@
 
 <h1 align="center">Hey 👋, I'm Valentin MOTUEL</h1>
 
-<h3 align="center">Student in Computer Science at Paris-Est, Marne-la-Vallée University</h3>
+<h3 align="center">Student in Cybersecurity at ESIEE Paris</h3>
 
 <br>
   <br>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **RootMe**
 - 📫 How to reach me: **newval.2003@gmail.com**
 
 <!--
